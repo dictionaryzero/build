@@ -1,9 +1,9 @@
 
 # Introduction (简介)
 
-This repo is where dictionaryzero.com keeps its entries.
+This repo is where [dictionaryzero.com](https://dictionaryzero.com) keeps its entries.
 
-这个存储库是dictionaryzero.com保存词条的地方。
+这个存储库是[dictionaryzero.com](https://dictionaryzero.com)保存词条的地方。
 
 A simple entry can be defined using just one line, like so:
 
@@ -13,7 +13,7 @@ A simple entry can be defined using just one line, like so:
 Monday (pl: Mondays) | n. 星期一/周一
 ```
 
-dictionaryzero.com focuses users whose first language is Chinese, and have the need to read materials written in English.
+[dictionaryzero.com](https://dictionaryzero.com) focuses users whose first language is Chinese, and have the need to read materials written in English.
 
 dictionaryzero.com服务于母语为汉语，需要阅读英文材料的人群。
 
@@ -29,7 +29,7 @@ Periodically, a script will pull entries from here and publish it to dictionaryz
 
 # Organization (组织)
 
-You can create issues for problems found in this repo, or dictionaryzero.com, by clicking Issues on the top.
+You can create issues for problems found in this repo, or [dictionaryzero.com](https://dictionaryzero.com), by clicking Issues on the top.
 
 不管是dictionaryzero.com的问题或是本存储库定义存在的问题，您都可以点击顶部的Issues来创建新的议题。
 
