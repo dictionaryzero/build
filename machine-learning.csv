@@ -1,0 +1,216 @@
+[Machine Learning] | [机器学习]
+A/B testing | n. A\/B测试  
+accuracy | n. 准确率
+activation function | n. 激活函数  
+AdaGrad | n. 一种梯度下降法: 用于机器学习训练过程中的一种先进的梯度下降法，用于重新调整每个参数的梯度，以便有效地为每个参数指定独立的学习速率。
+AUC (Area under the ROC Curve) | n. ROC 曲线下面积  
+backpropagation | n. 反向传播算法  
+baseline | n. 基准  
+batch | n. 批次  
+batch size | n. 批次大小  
+bias | n. 偏差  
+binary classification | n. 二元分类  
+binning | n. 分箱  
+bucketing | n. 分桶  
+calibration layer | n. 校准层  
+candidate sampling | n. 候选采样  
+categorical data | n. 分类数据  
+centroid | n. 形心  
+checkpoint | n. 检查点  
+class | n. 类别  
+class-imbalanced data set | n. 分类不平衡的数据集  
+classification model | n. 分类模型  
+classification threshold | n. 分类阈值  
+clustering | n. 聚类  
+collaborative filtering | n. 协同过滤  
+confusion matrix | n. 混淆矩阵  
+continuous feature | n. 连续特征  
+convergence | n. 收敛  
+convex function | n. 凸函数  
+convex optimization | n. 凸优化  
+convex set | n. 凸集  
+convolution | n. 卷积  
+convolutional filter | n. 卷积过滤器  
+convolutional layer | n. 卷积层  
+convolutional neural network | n. 卷积神经网络  
+convolutional operation | n. 卷积运算  
+cost | n. 成本  
+cross-entropy | n. 交叉熵  
+custom Estimator | n. 自定义评估器  
+data analysis | n. 数据分析  
+DataFrame | n. 数据构架: Pandas库提供的一种数据类型，它类似于表格。DataFrame的每一列都有一个名称（标题），每一行都由一个数字标识。
+data set | n. 数据集  
+decision boundary | n. 决策边界  
+dense layer | n. 密集层  
+deep model | n. 深度模型  
+dense feature | n. 密集特征  
+device | n. 设备  
+discrete feature | n. 离散特征  
+dropout regularization | n. 丢弃正则化  
+dynamic model | n. 动态模型  
+early stopping | n. 早停法  
+embeddings | n. 嵌套  
+ERM (empirical risk minimization) | n. 经验风险最小化  
+ensemble | n. 集成学习  
+epoch | n. 周期  
+Estimator | n. 评估器: TensorFlow提供的一种高级API。
+example | n. 样本  
+FN (false negative) | n. 假负例  
+FP (false positive) | n. 假正例  
+false positive rate | n. 假正例率/FP率
+feature | n. 特征  
+feature cross | n. 特征组合  
+feature engineering | n. 特征工程  
+feature set | n. 特征集  
+feature spec | n. 特征规范  
+few-shot learning | n. 少量样本学习  
+full softmax | n. 完整softmax
+fully connected layer | n. 全连接层  
+generalization | n. 泛化  
+generalized linear model | n. 广义线性模型  
+gradient | n. 梯度  
+gradient clipping | n. 梯度裁剪  
+gradient descent | n. 梯度下降法  
+graph | n. 图  
+heuristic | n. 启发法  
+hidden layer | n. 隐藏层  
+hinge loss | n. 合页损失函数  
+holdout data | n. 维持数据  
+hyperparameter | n. 超参数  
+hyperplane | n. 超平面  
+i.i.d (independently and identically distributed) | n. 独立同等分布  
+inference | n. 推断  
+input function | n. 输入函数  
+input layer | n. 输入层  
+instance | n. 实例  
+interpretability | n. 可解释性  
+inter-rater agreement | n. 评分者间一致性信度  
+iteration | n. 迭代  
+k-means | n. 一种聚类算法
+k-median | n. 一种聚类算法
+Keras | n. 一个机器学习软件库，后并入TensorFlow
+KSVM (Kernel Support Vector Machines) | n. 核支持向量机  
+L1 loss | n. L1 损失函数  
+L1 regularization | n. L1 正则化  
+L2 loss | n. L2 损失函数  
+L2 regularization | n. L2 正则化  
+label | n. 标签  
+labeled example | n. 有标签样本  
+lambda | n. 正则化率; n. 在Python中指匿名函数
+layer | n. 层  
+learning rate | n. 学习速率  
+least squares regression | n. 最小二乘回归  
+linear regression | n. 线性回归  
+logistic regression | n. 逻辑回归  
+logits | n. 对数  
+Log Loss | n. 对数损失函数  
+log-odds | n. 对数几率  
+Loss | n. 损失  
+machine learning | n. 机器学习  
+MSE, Mean Squared Error | n. 均方误差  
+metric | n. 指标  
+mini-batch | n. 小批次  
+SGD (mini-batch stochastic gradient descent) | n. 小批次随机梯度下降法
+ML (Machine Learning) | n. 机器学习
+model | n. 模型  
+model function | n. 模型函数  
+model training | n. 模型训练  
+Momentum | n. 动量  
+multi-class classification | n. 多类别分类  
+multinomial classification | n. 多项分类  
+NaN trap | n. NaN 陷阱  
+negative class | n. 负类别  
+neural network | n. 神经网络  
+neuron | n. 神经元  
+node | n. 节点  
+normalization | n. 标准化  
+numerical data | n. 数值数据  
+Numpy | n. Python软件库，提供各种用于科学计算的函数。
+objective | n. 目标  
+offline inference | n. 离线推断  
+one-hot encoding | n. 独热编码  
+one-shot learning | n. 单样本学习: 通常用于对象分类
+one-vs.-all | n. 一对多  
+online inference | n. 在线推断  
+op (Operation) | n. 操作  
+optimizer | n. 优化器  
+outlier | n. 离群值  
+output layer | n. 输出层  
+overfitting | n. 过拟合  
+Pandas | n. 一个Python软件库，提供用以访问和检查数据集的工具。
+parameter | n. 参数  
+PS (Parameter Server) | n. 参数服务器  
+parameter update | n. 参数更新  
+partial derivative | n. 偏导数  
+partitioning strategy | n. 划分策略  
+performance | n. 性能  
+perplexity | n. 困惑度  
+pipeline | n. 流水线  
+pooling | n. 池化  
+positive class | n. 正类别  
+precision | n. 精确率  
+prediction | n. 预测  
+prediction bias | n. 预测偏差  
+pre-made Estimator | n. 预创建的评估器
+pre-trained model | n. 预训练模型  
+prior belief | n. 先验信念  
+queue | n. 队列  
+rank | n. 等级  
+rater | n. 评分者  
+recall | n. 召回率  
+ReLU (Rectified Linear Unit) | n. 修正线性单元  
+regression model | n. 回归模型  
+regularization | n. 正则化  
+regularization rate | n. 正则化率  
+representation | n. 表示法  
+receiver operating characteristic | n. 受试者工作特征曲线/ROC曲线
+root directory | n. 根目录  
+RMSE (Root Mean Squared Error) | n. 均方根误差  
+rotational invariance | n. 旋转不变性  
+scaling | n. 缩放  
+scikit-learn | n. 一个Python软件库，提供各种机器学习算法及工具。
+semi-supervised learning | n. 半监督式学习  
+sequence model | n. 序列模型  
+sigmoid function | n. S型函数  
+size invariance | n. 大小不变性  
+softmax | n. softmax函数
+sparse feature | n. 稀疏特征  
+sparse representation | n. 稀疏表示法  
+sparsity | n. 稀疏性  
+spatial pooling | n. 空间池化  
+squared hinge loss | n. 平方合页损失函数  
+squared loss | n. 平方损失函数  
+static model | n. 静态模型  
+stationarity | n. 平稳性  
+step | n. 步  
+step size | n. 步长  
+SGD (stochastic gradient descent) | n. 随机梯度下降法  
+SRM (structural risk minimization) | n. 结构风险最小化  
+stride | n. 步长  
+subsampling | n. 下采样  
+summary | n. 总结  
+supervised machine learning | n. 监督式机器学习  
+synthetic feature | n. 合成特征  
+target | n. 目标  
+temporal data | n. 时态数据  
+Tensor | n. 张量  
+TPU (Tensor Processing Unit) | n. 张量处理单元  
+Tensor rank | n. 张量等级  
+Tensor shape | n. 张量形状  
+Tensor size | n. 张量大小  
+TensorBoard | n. 一个用以显示TensorFlow程序各种内部运行信息的工具。
+TensorFlow | n. 一个由Google主导的开源机器学习平台
+test set | n. 测试集  
+time series analysis | n. 时间序列分析  
+training | n. 训练  
+training set | n. 训练集  
+transfer learning | n. 迁移学习  
+translational invariance | n. 平移不变性  
+TN (true negative) | n. 负例  
+TP (true positive) | n. 正例  
+true positive rate | n. 正例率/TP率
+unlabeled example | n. 无标签样本  
+unsupervised machine learning | n. 非监督式机器学习  
+validation set | n. 验证集  
+weight | n. 权重  
+wide model | n. 宽度模型  
